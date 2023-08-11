@@ -24,6 +24,7 @@ function App() {
         <StyledBtn fontSize='30px'>Hello</StyledBtn> */}
         <StyledBtn color={myTheme.colors.primary} btnType={"primary"} active>Hello</StyledBtn>
         <StyledBtn color={myTheme.colors.secondary} btnType={"outlined"}>Hello</StyledBtn>
+        <p>text</p>
         {/* <SuperButton>Super Button</SuperButton> */}
         {/* <input type='text' />
         <input type='submit' />

@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/style-component-project/static/css/main.31d6cfe0.css",
+    "main.js": "/style-component-project/static/js/main.b89be10f.js",
+    "static/js/787.f4459b7d.chunk.js": "/style-component-project/static/js/787.f4459b7d.chunk.js",
+    "index.html": "/style-component-project/index.html",
+    "main.b89be10f.js.map": "/style-component-project/static/js/main.b89be10f.js.map",
+    "787.f4459b7d.chunk.js.map": "/style-component-project/static/js/787.f4459b7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.b89be10f.js"
+  ]
+}
